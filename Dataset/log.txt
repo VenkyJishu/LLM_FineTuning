@@ -1,0 +1,5 @@
+2024-05-21 10:03:42 - KeyVaultAccessDenied: Access denied due to expired token.
+
+2024-05-21 10:05:00 - AuthenticationFailure: User login failed from IP 20.30.40.50.
+
+2024-05-21 10:08:12 - ResourceNotFound: VM instance 'web-prod-01' not found.
